@@ -248,7 +248,7 @@ const Addcard = () => {
 
           <View style={{padding: 20}}>
             <Pressable
-              style={{   
+              style={{
                 backgroundColor: '#0458F7',
                 justifyContent: 'center',
                 borderRadius: 20,
