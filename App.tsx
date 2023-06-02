@@ -6,5 +6,4 @@ import StackNavigation from './Components/StackNavigation';
 const App = () => {
   return <StackNavigation />;
 };
-
 export default App;
